@@ -1,4 +1,4 @@
-# Project 3 — LLM Interface Optimization (Capstone)
+# LLM Interface Optimization (Capstone)
 
 > Loading a real large language model, compressing it with quantization, and making it run on a budget GPU — while measuring exactly what you gain and what (if anything) you lose.
 
